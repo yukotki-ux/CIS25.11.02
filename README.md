@@ -1,2 +1,3 @@
+War Game
 •  Split the entire 52-card deck evenly so each player has 26 cards face-down. Both players flip their top card face-up at the exact same time. Whoever has the higher-ranking card takes both cards and places them at the bottom of their stack.
 • How to win: The first player to collect all 52 cards wins
